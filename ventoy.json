@@ -1,0 +1,76 @@
+{
+    "control": [
+        {"VTOY_DEFAULT_SEARCH_ROOT": "/isos"}
+    ],
+    "theme": {
+        "file": "/ventoy/fallout-grub-theme/theme.txt",
+        "fonts": [
+            "/ventoy/fallout-grub-theme/fixedsys-regular-32.pf2"
+        ],
+        "ventoy_color": "#67d97a"
+    },
+    "menu_class": [
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+        {
+            "key": "fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "windows",
+            "class": "windows"
+        },      
+        {
+            "key": "WePE",
+            "class": "wepe"
+        },
+        {
+            "dir": "xubuntu",
+            "class": "xubuntu"
+        }        
+    ],
+    "menu_alias": [
+        {
+            "image": "/isos/cn_windows_10_business_editions_version_2004_x64_dvd_c59a4f91.iso",
+            "alias": "Windows 10 2004"
+        },
+        {
+            "image": "/isos/deepin-15.11-amd64_4.iso",
+            "alias": "Deepin 15.11"
+        },
+        {
+            "image": "/isos/ubuntu-18.04.5-desktop-amd64.iso",
+            "alias": "Ubuntu 18.04.5"
+        },
+        {
+            "image": "/isos/WePE_64_V2.1.iso",
+            "alias": "WePE 2.1"
+        }
+    ]
+}
