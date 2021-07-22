@@ -11,6 +11,10 @@
     },
     "menu_class": [
         {
+            "key": "CentOS",
+            "class": "centos"
+        },
+        {
             "key": "debian",
             "class": "debian"
         },
