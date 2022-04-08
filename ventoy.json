@@ -65,6 +65,10 @@
             "alias": "Windows 10 2004"
         },
         {
+            "image": "/isos/Win11_Chinese(Simplified)_x64v1.iso",
+            "alias": "Windows 11"
+        },
+        {
             "image": "/isos/deepin-15.11-amd64_4.iso",
             "alias": "Deepin 15.11"
         },
@@ -75,6 +79,10 @@
         {
             "image": "/isos/WePE_64_V2.1.iso",
             "alias": "WePE 2.1"
+        },
+        {
+            "image": "/isos/WePE64_V2.2.iso",
+            "alias": "WePE 2.2"
         }
     ]
 }
